@@ -1,3 +1,6 @@
+# Note, the following code will only work for MY file path. 
+# To implement the same task, you must create your own filepath.
+
 import numpy as np
 from scipy.io import wavfile
 
